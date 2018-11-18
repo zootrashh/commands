@@ -1,7 +1,7 @@
 var loveMsg = "";
 var number = Math.floor(Math.random() * 100) + 1;
 
-message;
+query;
 
 if (query === "") {
 	loveMsg = `${user} loves everything. :D`;
