@@ -1,1 +1,1 @@
-?msg=$(query)&user=$(user)
+?query=$(querystring $(query))&touser=$(querystring $(touser))
