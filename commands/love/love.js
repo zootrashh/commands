@@ -2,7 +2,12 @@ var loveMsg = "";
 var number = Math.floor(Math.random() * 100) + 1;
 
 const urlParams = new URLSearchParams(window.location.search);
-const query = url.Params.get('query');
+
+urlParams;
+
+//const query = url.Params.get("query");
+
+
 
 query;
 
