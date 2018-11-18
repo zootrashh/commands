@@ -10,7 +10,7 @@ else if ("$(query)" == "zootrash"||"$(query)" == "@zootrash"||"$(query)" == "zoo
 } 
 
 else {
-	loveMsg = `The love between $(user) and $(query) is ${number}%! PogChamp`;
+	loveMsg = `The love between ${user} and ${query} is ${number}%! PogChamp`;
 } 
 
 loveMsg;
