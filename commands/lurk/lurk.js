@@ -10,4 +10,4 @@ msg =
 
 ];
 
-msg[Math.floor(Math.random() * a.length)];
+msg[Math.floor(Math.random() * msg.length)];
