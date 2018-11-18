@@ -8,7 +8,8 @@ msg = [
 	"runs away!",
 	"lights a fire and leaves.",
 	"says 'k bye.' and leaves.",
-	"has fled!"
+	"has fled!",
+	"FIGHT   ITEM   PKMN  >RUN"
 ];
 
 msg[Math.floor(Math.random() * msg.length)];
