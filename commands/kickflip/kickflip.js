@@ -5,4 +5,4 @@ a = [
 	"pops a kickflip but misses the board entirely, receiving a mad shinner!"
 ];
 
-a[Math.floor(Math.random() * a.length)])
+a[Math.floor(Math.random() * a.length)]);
