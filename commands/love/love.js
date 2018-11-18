@@ -1,7 +1,9 @@
 var loveMsg = "";
 var number = Math.floor(Math.random() * 100) + 1;
 
-query;
+number;
+
+/* query;
 
 if (query === "") {
 	loveMsg = `${user} loves everything. :D`;
@@ -17,3 +19,4 @@ else {
 
 query;
 loveMsg;
+*/
