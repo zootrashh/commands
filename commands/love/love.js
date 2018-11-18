@@ -13,4 +13,5 @@ else {
 	loveMsg = `The love between ${user} and ${query} is ${number}%! PogChamp`;
 } 
 
+query;
 loveMsg;
