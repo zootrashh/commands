@@ -2,7 +2,7 @@ var res = "";
 var number = Math.floor(Math.random() * 100) + 1;
 
 if(number >= 0 && number < 25) {
-	res = `${number}%... It''s a sad day... BibleThump`;
+	res = `${number}%... Sad day today... BibleThump`;
 }
 
 else if(number >= 25 && number < 50) {
