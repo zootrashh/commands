@@ -1,23 +1,20 @@
-var loveMsg = "";
+var res = "";
 var number = Math.floor(Math.random() * 100) + 1;
 
-query;
-urlParams;
-
-/* query;
-
-if (query === "") {
-	loveMsg = `${user} loves everything. :D`;
+if(number >= 0 && number < 25) {
+	res = `${number}%! BibleThump`;
 }
 
-else if ("$(query)" == "zootrash"||"$(query)" == "@zootrash"||"$(query)" == "zoo") {
-	loveMsg = "$(user) loves zootrash!";
-} 
+else if(number >= 25 && number < 50) {
+	res = `${number}%! NotLikeThis`;
+}
+
+else if(number >= 50 && number < 75) {
+	res = `${number}%! FutureMan`;
+}
 
 else {
-	loveMsg = `The love between ${user} and ${query} is ${number}%! PogChamp`;
-} 
+	res = `${number}%! PogChamp`;
+}
 
-query;
-loveMsg;
-*/
+res;
