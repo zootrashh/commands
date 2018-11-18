@@ -1,10 +1,10 @@
 msg = [
-	"Won by KO!",
-	"Lost by KO!",
-	"Won by submission!",
-	"Lost by submission!",
-	"Won by DQ!",
-	"Lost by DQ!",
+	"won by KO!",
+	"lost by KO!",
+	"won by submission!",
+	"lost by submission!",
+	"won by DQ!",
+	"lost by DQ!",
 
 ];
 
