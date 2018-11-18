@@ -7,6 +7,6 @@ msg = [
 	"then runs away!",
 	", lights a fire, then leaves.",
 	"then flees!"
-]
+];
 
 msg[Math.floor(Math.random() * msg.length)];
