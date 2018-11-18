@@ -1,8 +1,8 @@
 var loveMsg = "";
 var number = Math.floor(Math.random() * 100) + 1;
 
-if (${query} === "") {
-	loveMsg = `${user} loves everything. :D`;
+if ("$(query)" === "") {
+	loveMsg = "$(user) loves everything. :D";
 }
 
 else if ("$(query)" == "zootrash"||"$(query)" == "@zootrash"||"$(query)" == "zoo") {
