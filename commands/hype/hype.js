@@ -1,8 +1,12 @@
 msg = [
-	"PogChamp PokPikachu CurseLit BibleThump PogChamp ragsGGs", 
-	"PokPikachu CurseLit BibleThump PogChamp ragsGGs GivePLZ TakeRNG", 
-	"PogChamp PogChamp PogChamp CurseLit CurseLit TwitchLit PokPikachu", 
-	"FBtouchdown PogChamp CurseLit PokPikachu ragsGGs GivePLZ TakeNRG"
+	"PogChamp", 
+	"PokPikachu", 
+	"CurseLit", 
+	"FBtouchdown", 
+	"BibleThump",
+	"ragsGGs",
+	"GivePLZ",
+	"TakeRNG"
 ];
 
 msg[Math.floor(Math.random() * msg.length)];
