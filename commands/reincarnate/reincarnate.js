@@ -7,6 +7,12 @@ msg = [
 	"a cat!",
 	"a dog!",
 	"a giraffe!",
+	"a guitar!",
+	"a drumset!",
+	"a watermelon!",
+	"an apple!",
+	"a tire!",
+	"a bird!"
 
 ];
 
