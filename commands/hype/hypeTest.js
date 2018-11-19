@@ -1,6 +1,6 @@
 msg = [
 
-	"PogChamp",
+	"PogChamp BibleThump PopCorn",
 	"BibleThump",
 	"PopCorn"
 ];
