@@ -1,6 +1,6 @@
 msg = [
 
-	"PogChamp BibleThump PopCorn CurseLit GivePLZ TakeNRG FBTouchDown TwitchLit"
+	"PogChamp"
 ];
 
 msg[Math.floor(Math.random() * msg.length)];
